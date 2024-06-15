@@ -10,5 +10,5 @@ Actualmente nuestros proyectos son:
 Nuestro principal desarrollador fullstack es:
 ### [David Alonso Ruiz](https://github.com/Darito97)
 
-Y los colaboradores son:
-##### José Ángel Tovar Fuerte
+Y el colaborador es:
+- José Ángel Tovar Fuerte
