@@ -8,7 +8,7 @@ Actualmente nuestros proyectos son:
 - Desarrollo de aplicaciones para uso interno de la empresa
 
 Nuestro principal desarrollador fullstack es:
-### [David Alonso Ruiz](https://github.com/Darito97)
+- Auxilias de sistemas
 
 Y el colaborador es:
 - José Ángel Tovar Fuerte
